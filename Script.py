@@ -194,7 +194,7 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ɢʀᴏᴜᴘ : <a href='https://t.me/at3movies>AT3MOVIES</a>
+▫️ɢʀᴏᴜᴘ : <a href='https://t.me/at3movies'>AT3MOVIES</a>
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
