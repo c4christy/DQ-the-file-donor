@@ -44,12 +44,7 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('⚔️Bᴏᴛ Oᴡɴᴇʀ⚔️', url=f"https://t.me/aboutexinos"),
                     InlineKeyboardButton('💫Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ💫', url=GRP_LNK)
-                ],[
-                    InlineKeyboardButton('⚙️Hᴇʟᴘ⚙️', callback_data='help'),
-                    InlineKeyboardButton('🛡️Aʙᴏᴜᴛ🛡️', callback_data='about'),
-                  ],[
-                    InlineKeyboardButton('📣Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ📣', url=CHNL_LNK)
-                  ]]
+               ]] 
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_sticker("CAACAgIAAxkBAAEGxuNjlYLKxvQob1xJxXHkR8XOJM6AbwACuA0AArqQ6Es7HbxOVjAxMysE")
         await asyncio.sleep(1)
@@ -95,12 +90,7 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('⚔️Bᴏᴛ Oᴡɴᴇʀ⚔️', url=f"https://t.me/aboutexinos"),
                     InlineKeyboardButton('💫Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ💫', url=GRP_LNK)
-                ],[
-                    InlineKeyboardButton('⚙️Hᴇʟᴘ⚙️', callback_data='help'),
-                    InlineKeyboardButton('🛡️Aʙᴏᴜᴛ🛡️', callback_data='about'),
-                  ],[
-                    InlineKeyboardButton('📣Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ📣', url=CHNL_LNK)
-                  ]]
+                ]] 
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_sticker("CAACAgIAAxkBAAEGxuNjlYLKxvQob1xJxXHkR8XOJM6AbwACuA0AArqQ6Es7HbxOVjAxMysE")
         await asyncio.sleep(1)
