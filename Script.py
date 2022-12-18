@@ -1,18 +1,18 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍</b>"""
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝚂𝙴𝙴 𝙼𝚈 𝙿𝙾𝚆𝙴𝚁𝚂 💥💥💥</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>🥱 My Name : {}
-🕵‍♂ Creater : <a href="https://t.me/crazyspiderr">『🦞』༺𓆩𝑹𝒐𝒍𝒆𝒙𓆪࿐</a>
-📚 Library : <a href='https://docs.pyrogram.org/'>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
-🖥 Language : <a href='https://www.python.org/download/releases/3.0/'>𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</a>
-🧑‍💻 Developer : <a href='https://t.me/AFxSU'>🍒ɛӼ_ռöֆ__⁷⁷⁷ ✘ ⁴✨🦋</a>
-🎪 Data Base : <a href='https://www.mongodb.com/'>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
-📡 Server : <a href='https://t.me/quickfastt'>QuickFast</a>
-🔋 Bot Group : <a href='https://t.me/at3movies'>MovieGroup</a> </b>"""
+    ABOUT_TXT = """<b>🥱 My Nᴀᴍᴇ : {}
+🕵‍♂ Cʀᴇᴀᴛᴏʀ : <a href="https://t.me/psycho_009">Aᴋ Tɢ</a>
+📚 Lɪʙʀᴀʀy : <a href='https://docs.pyrogram.org/'>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
+🖥 Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</a>
+🧑‍💻 Dᴇᴠᴇʟᴏᴩᴇʀ : <a href='https://t.me/psycho_009'>Aᴋ Tɢ</a>
+🎪 Dᴀᴛᴀ Bᴀꜱᴇ : <a href='https://www.mongodb.com/'>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
+📡 Sᴇʀᴠᴇʀ : <a href='https://t.me/Ak_Links1'>Aɴyᴡᴇʀᴇ</a>
+🔋 Bᴏᴛ Gʀᴏᴜᴩ : <a href='https://t.me/Ak_moviesgroup'>Mᴏᴠɪᴇ Gʀᴏᴜᴩ</a> </b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ
