@@ -457,9 +457,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
                             [
                          [
                           InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇ', url=CHNL_LNK),
-                          InlineKeyboardButton('ᴍᴏᴠɪᴇɢʀᴏᴜᴘ', url="https://t.me/at3movies")
+                          InlineKeyboardButton('ᴍᴏᴠɪᴇɢʀᴏᴜᴘ', url="https://t.me/Ak_moviesgroup")
                        ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="https://t.me/aboutexinos")
+                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="https://t.me/psycho_009")
                          ]
                         ]
                     )
@@ -505,9 +505,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 [
                          [
                           InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇ', url=CHNL_LNK),
-                          InlineKeyboardButton('ᴍᴏᴠɪᴇɢʀᴏᴜᴘ', url="https://t.me/at3movies")
+                          InlineKeyboardButton('ᴍᴏᴠɪᴇɢʀᴏᴜᴘ', url="https://t.me/Ak_moviesgroup")
                        ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="https://t.me/aboutexinos")
+                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="https://t.me/psycho_009")
                          ]
                         ]
                     )
@@ -783,8 +783,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚​', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ​', url='https://t.me/at3movies'),
-                    InlineKeyboardButton('♚ ᴏᴡɴᴇʀ ♚', url='https://t.me/aboutexinos')
+                    InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ​', url='https://t.me/Ak_moviesgroup'),
+                    InlineKeyboardButton('♚ ᴏᴡɴᴇʀ ♚', url='https://t.me/psycho_009')
                 ],[
                     InlineKeyboardButton('〄 ʜᴇʟᴘ 〄', callback_data='help'),
                     InlineKeyboardButton('⍟ ᴀʙᴏᴜᴛ ⍟', callback_data='about'),
@@ -867,7 +867,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('ᴅᴇᴠᴏʟᴏᴘᴇʀ', url='https://t.me/aboutexinos'),
+            InlineKeyboardButton('ᴅᴇᴠᴏʟᴏᴘᴇʀ', url='https://t.me/psycho_009'),
             InlineKeyboardButton('sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​', callback_data='source')
         ],[
             InlineKeyboardButton('𝐇𝐨𝐦𝐞', callback_data='start'),
