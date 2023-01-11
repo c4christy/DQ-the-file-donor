@@ -5,23 +5,23 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>🥱 My Nᴀᴍᴇ : {}
-🕵‍♂ Cʀᴇᴀᴛᴏʀ : <a href="https://t.me/psycho_009">Aᴋ Tɢ</a>
-📚 Lɪʙʀᴀʀy : <a href='https://docs.pyrogram.org/'>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
-🖥 Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</a>
-🧑‍💻 Dᴇᴠᴇʟᴏᴩᴇʀ : <a href='https://t.me/psycho_009'>Aᴋ Tɢ</a>
-🎪 Dᴀᴛᴀ Bᴀꜱᴇ : <a href='https://www.mongodb.com/'>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
-📡 Sᴇʀᴠᴇʀ : <a href='https://t.me/Ak_Links1'>Aɴyᴡᴇʀᴇ</a>
-🔋 Bᴏᴛ Gʀᴏᴜᴩ : <a href='https://t.me/Ak_moviesgroup'>Mᴏᴠɪᴇ Gʀᴏᴜᴩ</a> </b>"""
+    ABOUT_TXT = """<b>➪ Mʏ Nᴀᴍᴇ : {}
+➪ Cʀᴇᴀᴛᴏʀ: <a href='tg://settings'>Tʜɪs ᴘᴇʀsᴏɴ</a>
+➪ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
+➪ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href='https://t.me/psycho_009'>Aᴋ Dᴇᴠᴇʟᴏᴩᴇʀ</a>
+➪ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
+➪ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
+➪ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://t.me/Ak_Links1'>Aɴyᴡᴇʀᴇ</a>
+➪ Bᴏᴛ Uᴩᴅᴀᴛᴇꜱ: <a href='https://t.me/Ak_Links1'>Aᴋ Bᴏᴛᴢ</a> </b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ
 - ꜱource⚡️ - <a href="https://github.com/MyBotzz/RashmikaBot">ʜᴇʀᴇ</a>
 
 Dᴇᴠs:
-- <a href="https://t.me/crazyspiderr">『🦞』༺𓆩𝑹𝒐𝒍𝒆𝒙𓆪࿐</a>
+- <a href="https://t.me/psycho_009">𝐀𝐤 𝐓𝐠 [O𝐅𝐅𝐥𝐢𝐧𝐞]</a>
 
-- <a href="https://t.me/AFxSU">🍒ɛӼ_ռöֆ__⁷⁷⁷ ✘ ⁴✨🦋</a></b>"""
+- <a href="https://t.me/Aneeb_007">𝐃𝐀𝐑𝐊 𝐃𝐄𝐕𝐈𝐋 [𝐎𝐅𝐅𝐋𝐈𝐍𝐄]</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -137,9 +137,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ᴊᴏᴇʟ ᴋᴜʀɪᴀɴ ʙɪᴊᴜ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @creatorbeatz
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/creatorbeatz'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : 𝐀𝐤 𝐓𝐠 [O𝐅𝐅𝐥𝐢𝐧𝐞 ]
+• ᴜꜱᴇʀɴᴀᴍᴇ : @psycho_009
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/psycho_009'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -148,7 +148,7 @@ Nᴀᴍᴇ - {}"""
 
 ɪꜰ ʏᴏᴜ ᴅᴏ ɴᴏᴛ ꜱᴇᴇ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ᴍᴏᴠɪᴇ / sᴇʀɪᴇs ꜰɪʟᴇ, ʟᴏᴏᴋ ᴀᴛ ᴛʜᴇ ɴᴇxᴛ ᴘᴀɢᴇ
 
-©𝑆𝑎𝑑𝑖𝑒 𝑆𝑖𝑛𝑘"""
+©𝙰𝚔 𝙱𝚘𝚝𝚣"""
 
     MINFO = """
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
@@ -161,7 +161,7 @@ Nᴀᴍᴇ - {}"""
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)
 
-©𝑆𝑎𝑑𝑖𝑒 𝑆𝑖𝑛𝑘"""
+©𝙰𝚔 𝙱𝚘𝚝𝚣"""
 
     SINFO = """
 ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
@@ -174,7 +174,7 @@ Nᴀᴍᴇ - {}"""
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)
 
-©𝑆𝑎𝑑𝑖𝑒 𝑆𝑖𝑛𝑘"""
+©𝙰𝚔 𝙱𝚘𝚝𝚣"""
 
     NORSLTS = """
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
@@ -194,22 +194,22 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ɢʀᴏᴜᴘ : <a href='https://t.me/at3movies'>AT3MOVIES</a>
+▫️ɢʀᴏᴜᴘ : <a href='https://t.me/Ak_moviesgroup'>Mᴏᴠɪᴇ Rᴇqᴜᴇꜱᴛɪɴɢ Gʀᴏᴜᴩ</a>
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
-<b>🎪 Tɪᴛʟᴇ : <a href={url}>{title}</a>
-🛸  Iɴғᴏ : {runtime} min | <a href={url}/releaseinfo>{year}</a>
+<b>⍞ 𝗧𝗶𝘁𝗹𝗲 : <a href={url}>{title}</a>
+〄 𝗥𝗲𝗹𝗲𝗮𝘀𝗲𝗱 : {runtime} min | <a href={url}/releaseinfo>{year}</a>
 
-🎭 Gᴇɴʀᴇ : {genres}
-🌟 Rᴀᴛɪɴɢ : <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
-🌍 Cᴏᴜɴᴛʀʏ : <code>{countries}</code>
-🎙 Lᴀɴɢᴜᴀɢᴇ : <code>{languages}</code>
+⌗ 𝗚𝗲𝗻𝗿𝗲𝘀 : <i>{genres}</i>
+★ 𝗥𝗮𝘁𝗶𝗻𝗴 : <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
+〄𝗖𝗼𝘂𝗻𝘁𝗿𝗶𝗲𝘀 : <i>{countries}</i>
+⌬ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 : <i>{languages}</i>
 
-🎬 ️Dɪʀᴇᴄᴛᴏʀ : {director} 
-📚 ️Wʀɪᴛᴇʀs : {writer}
+⎙ 𝗗𝗶𝗿𝗲𝗰𝘁𝗼𝗿 : <i>{director}</i> 
+⛤𝗪𝗿𝗶𝘁𝗲𝗿𝘀 : <i>{writer}</i>
 
-🔹 Pᴏᴡᴇʀᴇᴅ Bʏ {message.chat.title} </b>"""
+★𝗨𝗽𝗹𝗼𝗮𝗱𝗲𝗱 𝗕𝘆 : <i>{message.chat.title}</i> </b>"""
 
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
